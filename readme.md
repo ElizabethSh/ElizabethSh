@@ -4,7 +4,7 @@ Here you can find some of my projects.
 
 ### :hammer_and_wrench: My tech stack:
 
-- **Responsive web-development:** HTML5, CSS/SCSS/LESS;
+- **Responsive web-development:** HTML, CSS/SCSS/LESS;
 - **Frontend:** Vanilla JavaScript (ES6+);
 - **JavaScript libraries:** React, Redux;
 - **Testing libraries:** Jest, React Testing Library;
@@ -30,6 +30,5 @@ Here you can find some of my projects.
 <p align="center">
 <a href="mailto:liza.shoshkina@gmail.com"><img height="30" src="google_gmail.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/liza-shoshkina/"><img height="30" src="linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/meowlizy/"><img height="30" src="instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/ElizabethSh/"><img height="30" src="https://www.codewars.com/users/ElizabethSh/badges/micro"></a>
 </p>
