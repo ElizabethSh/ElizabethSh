@@ -1,19 +1,15 @@
-Welcome to my GitHub page! I'm a Frontend developer with a great passion for writing structured JavaScript and exploring new language features.
-I create beautiful web-products using best practices and modern technologies.
+Frontend Developer passionate about building engaging and inclusive web experiences. I develop applications with React, TypeScript, and modern JavaScript, prioritizing accessibility and performance. I strive to create intuitive and user-friendly interfaces, and I'm committed to writing clean, maintainable code. Continuous learning is essential to my approach.
 Here you can find some of my projects. 
 
 ### :hammer_and_wrench: My tech stack:
 
-- **Responsive web-development:** HTML, CSS/SCSS/LESS;
-- **Frontend:** Vanilla JavaScript (ES6+);
-- **JavaScript libraries:** React, Redux;
-- **Testing libraries:** Jest, React Testing Library;
-- **Code bundlers:** Webpack, Gulp;
-- **UX/UI:** Figma, Zeplin, Adobe Photoshop.
-
-### :woman_student: Currently learning:
-- TypeScript;
-- React Hooks.
+- React
+- TypeScript
+- JavaScript (ES6+)
+- Redux
+- HTML
+- CSS/SCSS
+- Jest, React Testing Library
 
 ### :computer: Some of my open source projects:
 
@@ -30,5 +26,4 @@ Here you can find some of my projects.
 <p align="center">
 <a href="mailto:liza.shoshkina@gmail.com"><img height="30" src="google_gmail.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/liza-shoshkina/"><img height="30" src="linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://www.codewars.com/users/ElizabethSh/"><img height="30" src="https://www.codewars.com/users/ElizabethSh/badges/micro"></a>
 </p>
